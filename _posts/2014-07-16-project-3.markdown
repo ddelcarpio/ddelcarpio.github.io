@@ -7,8 +7,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Internship
-description: Performed data analysis, documentation, testing, implementation of tools and support for national analysis. Corrected any data entry error to prevent later issues such as duplication or data degradation. Created a python tool to deliver data on current broadband and school connectivity goals to state governor’s offices, expedited process from
+description: Performed data analysis, documentation, testing, implementation of tools and support for national analysis.Created a python tool to deliver data on current broadband and school connectivity goals to state governor’s offices, expedited process from
 last year by 200%.
-
 
 ---
