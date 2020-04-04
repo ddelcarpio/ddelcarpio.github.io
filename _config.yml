@@ -1,10 +1,10 @@
 # Site settings
-title: Daniel Alejandro del Carpio
+title: Daniel del Carpio
 email: ddelcarpio@berkeley.edu
 url: https://ddelcarpio.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "Data Scientist"
-skills: "Analytics - Visualizations - Machine Learning"
+skills: "Data Analytics - Visualizations - Machine Learning"
 meta_author: del Carpio Daniel
 
 # Google webmaster tools
