@@ -1,12 +1,14 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2019-11-15
 img: game.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: November 2019
+client: SQL / Python / SciKitLearn
+category: Machine Leanring 
+description: Mined NYC taxi ride data by querying database using SQLite. Conducted exploratory data analysis, inspection, and cleaning using SQL. Created training and validation datasets for future use. Continued exploration on training dataset. Visualized and analyzed time, distance, and spatial/locational features. Implemented clustering
+analysis to pinpoint more nuanced features. Completed feature engineering and constructed regression model for the purpose of predicting the duration of an NYC taxi ride based on given information. Fit the model on training data, validated, and tested. Built reusable data processing pipeline. Model achieved a mean absolute error (MAE) of 176, meaning it was off by roughly 2-4 minutes for an average taxi ride.
+
 
 ---
