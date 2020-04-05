@@ -4,6 +4,7 @@ modal-id: 2
 date: 2019-12-17
 img: Facility3.png
 alt: image-alt
+title: UC Berkeley Facilities Services Website
 project-date: December 2019
 client: Tableau
 category: Website Development / Visualization

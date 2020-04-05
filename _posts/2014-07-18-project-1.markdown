@@ -4,9 +4,10 @@ modal-id: 1
 date: 2019-02-14
 img: Wori3.png
 alt: image-alt
+title: Warriors Shot Analysis 
 project-date: February 2019
 client: R
 category: Visualization / Analytics
-description: Used R to analyze 5 Golden State Warriors Players (Curry, Thompson, Durant, Green, Iguodala) during 2016-2017 NBA  season, data scraped from public NBA dataset. Made shot charts visualizations and drafted report. <a href="https://github.com/ddelcarpio/GSW_Shot_Analysis">Click here for Repo!</a> 
+description: Used R to analyze 5 Golden State Warriors Players (Curry, Thompson, Durant, Green, Iguodala) during 2016-2017 NBA  season, data scraped from public NBA dataset. Made shot charts visualizations and drafted report. <a href="https://github.com/ddelcarpio/GSW_Shot_Analysis">Click here for Repo!</a>
 
 ---
