@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2019-02-14
-img: cabin.png
+img: Wori3.png
 alt: image-alt
 project-date: Feburary 2019
 client: R
