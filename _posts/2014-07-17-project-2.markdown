@@ -5,8 +5,8 @@ date: 2019-12-17
 img: Facility3.png
 alt: image-alt
 project-date: December 2019
-client: Tableau 
+client: Tableau
 category: Website Development / Visualization
-description: Cleaned real UC Berkeley work order data and created interactive visualizations in Tableau, along with a website to provide insights on work orders around the UC Berkeley Campus. Wrote clear and concise test plans and protocols for usability testing with peers and members of the Facilities Services to measure user perceptions and preferences.
+description: Cleaned real UC Berkeley work order data and created interactive visualizations in Tableau, along with a website to provide insights on work orders around the UC Berkeley Campus. Wrote clear and concise test plans and protocols for usability testing with peers and members of the Facilities Services to measure user perceptions and preferences. <a href="https://dataviz12fs.weebly.com/">Click here for Website!</a>
 
 ---

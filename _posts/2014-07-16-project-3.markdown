@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Various
 category: Internship
-description: Performed data analysis, documentation, testing, implementation of tools and support for national analysis. Created a python tool to deliver data on current broadband and school connectivity goals to state governor’s offices.
+description: Performed data analysis, documentation, testing, implementation of tools and support for national analysis. Created a python tool to deliver data on current broadband and school connectivity goals to state governor’s offices. Contact me for more information!
 
 ---

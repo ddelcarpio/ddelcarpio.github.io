@@ -6,8 +6,8 @@ img: taxi new1.png
 alt: image-alt
 project-date: November 2019
 client: SQL / Python / SciKitLearn
-category: Machine Leanring 
-description: Implemented clustering analysis to pinpoint more nuanced features. Completed feature engineering and constructed regression model for the purpose of predicting the duration of an NYC taxi ride based on given information. Fit the model on training data, validated, and tested. Built reusable data processing pipeline. Model achieved a mean absolute error (MAE) of 176, meaning it was off by roughly 2-4 minutes for an average taxi ride.
+category: Machine Leanring
+description: Implemented clustering analysis to pinpoint more nuanced features. Completed feature engineering and constructed regression model for the purpose of predicting the duration of an NYC taxi ride based on given information. Fit the model on training data, validated, and tested. Built reusable data processing pipeline. Model achieved a mean absolute error (MAE) of 176, meaning it was off by roughly 2-4 minutes for an average taxi ride. Contact me for more information!
 
 
 ---

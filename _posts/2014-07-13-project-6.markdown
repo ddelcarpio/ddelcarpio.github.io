@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2019
 client: R
 category: Package Development
-description: Created a custom R package that implements functions for calculating probabilities of a Binomial random variable, and related calculations such as probability distribution, the expected value, variance, etc.
+description: Created a custom R package that implements functions for calculating probabilities of a Binomial random variable, and related calculations such as probability distribution, the expected value, variance, etc. Contact me for more information!
 
 ---

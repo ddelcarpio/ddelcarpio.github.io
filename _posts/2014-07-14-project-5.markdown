@@ -6,8 +6,8 @@ img: data2.png
 alt: image-alt
 project-date: September 2019 - Present
 client: Various
-category: On Campus Job 
-description: Consulted undergraduate students, graduate students and faculty on how to do integrate data science into their own research projects or course material. Consulted with various departments around the University on data visualizations for presentations and reports.
+category: On Campus Job
+description: Consulted undergraduate students, graduate students and faculty on how to do integrate data science into their own research projects or course material. Consulted with various departments around the University on data visualizations for presentations and reports. <a href="https://data.berkeley.edu/academics/resources/peer-consulting">Click here for more information!</a>
 
 
 ---
