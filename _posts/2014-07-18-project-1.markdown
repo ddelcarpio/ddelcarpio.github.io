@@ -4,9 +4,9 @@ modal-id: 1
 date: 2019-02-14
 img: Wori3.png
 alt: image-alt
-project-date: Feburary 2019
+project-date: February 2019
 client: R
-category: Visualization / Analytics 
+category: Visualization / Analytics
 description: Used R to analyze 5 Golden State Warriors Players (Curry, Thompson, Durant, Green, Iguodala) during 2016-2017 season, data scraped from public NBA dataset.   
 
 ---
