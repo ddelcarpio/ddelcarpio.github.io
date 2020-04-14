@@ -40,9 +40,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: http://linkedin..com/in/ddelcarpio
+    url: http://linkedin.com/in/ddelcarpio
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/ddelcarpio
 
 # Postal address (add as many lines as necessary)
 address:
